@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+“Hiding within those mounds of data is knowledge that could change the life of a patient, or change the world.” – Atul Butte, Stanford
 
-You can use the [editor on GitHub](https://github.com/Rkrahul04/Bigdata_Example_in_Healthcare/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Big Data is a buzzword making rounds in almost all the industries. The industry we would specifically speak about today is ‘Healthcare’.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So, how is Big Data helping the healthcare sector?
 
-### Markdown
+Like any other sector, the healthcare sector also contributes to vast amounts of data floating around. Data comes from various sources such as Electronic Medical Records (EHR), labs, imaging systems, medical correspondence, claims, database system and finance.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The next big question to ask is, what can be done with this data to make it useful?
 
-```markdown
-Syntax highlighted code block
+Big Data and Healthcare Paul Muller, VP of HP Software Marketing shared the following statistics: In 2012, the estimated digital healthcare data across the globe was approximately 500 Petabytes. This is expected to reach 25,000 petabytes by the end of 2020, which is 50 times more. This goes to say that having better ways to analyze this data helps drive better healthcare outcomes.
 
-# Header 1
-## Header 2
-### Header 3
+Initially, the healthcare industry refrained from using Big Data. The main reason behind this reluctance was the resistance to change, as the healthcare providers diagnosed and provided treatment using their own clinical judgment. But now, with the explosion of Big Data and its applications, the healthcare industry has got inclined towards better medical practice through analysis of data regarding their patients.
 
-- Bulleted
-- List
+Big Data Uses cases in Healthcare – Examples Big Data revolution was so strong that it acted as the source of innovation in healthcare. Here we have some evidences to show the revolution of Big Data in healthcare.
 
-1. Numbered
-2. List
+Asthamapolis has come up with a GPS tracker to monitor asthmatics inhaler usage. The information is ported to a central database. This information is used to identify individual, group and population-based trends and is merged with CDC (Center for Disease Control) information known as Asthma Catalyst. This helps physicians understand the possible reason of the disease and develop personalized treatment plans and prevention opportunities. Ginger.io is a mobile application that connects patients such as those with diabetes with their medical providers who will track them through their mobile phones and assist them with their behavioral health therapies. UC – Santa Cruz Initiative is $10.5 million project and is the base for the world’s largest repository for cancer genomes. It is a huge database with biomedical information that will help to generate complete molecular characterization of Cancer. Humedica Inc is a clinical informative company that connects clinical and patient information across varied settings and time to generate longitudinal and comprehensive view of patient care. Sick Weather LLC scans social media to track outbreaks of diseases, offering forecasts to users which is similar to weather forecasting to warn individuals of possible outbreaks. Big Data Benefits in Healthcare Big Data’s major role in healthcare has benefited the healthcare providers to improve their efficiency and become productive in their tasks. In healthcare, Big Data can be applied to:
 
-**Bold** and _Italic_ and `Code` text
+Provide effective treatment – Big Data helps evaluate the effectiveness of medical treatments. It prescribes effective course of actions by comparing and contrasting causes, symptoms and method of treatment. Also, Big Data helps to identify successful and standardized treatments for specific diseases. The other applications related to providing effective treatment is associating various side effects of treatments, grouping common symptoms to help in diagnosis, determining effective drug compounds and combinations to suit different sets of population. Manage healthcare – Big data here runs the complete healthcare system to manage cost effectively. It helps improve the outcomes, and reduce expenditure through better disease management methods. It also helps healthcare management develop better diagnosis and treatment protocols. At a higher level, Big Data facilitates comparison across different healthcare groups’ practice patterns, resource utilization, and costs of different hospitals etc. Manage customer relationship: This has to do with the customer interactions that occur at the billing department and inpatient setting of healthcare centers. Big Data here helps them in determining patients’ usage of specific healthcare services. Basically, it helps the healthcare centers know what patients want from their healthcare providers. Pharmaceuticals also find benefits from healthcare data. It helps them track which physician prescribes which drugs and for what purpose, so that they can strategize their targeting.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rkrahul04/Bigdata_Example_in_Healthcare/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Avoid fraud and abuse: Big Data helps in tracking unusual or abnormal patterns of practice by different laboratories, clinics and other related healthcare systems. They also highlight inappropriate prescriptions or referrals, fraudulent insurance and medical claims. It’s quite evident that Big Data has left its undeniable imprints in healthcare sector as well. The advent of Big Data in this industry will lead to better healthcare system that hugely benefits everyone involved in it, leading to better life and better career opportunities as well.
